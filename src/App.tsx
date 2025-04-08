@@ -65,9 +65,11 @@ function App() {
           margin: 0,
           letterSpacing: '0.2em',
         }}>
-          G E B A U T   T O D O   {currentDate.toLocaleDateString()}
+          GEBAUT  
+          TODO    {currentDate.toLocaleDateString()}
         </h1>
-      </header>
+        <br></br>
+   </header>
       
       <main style={{
         padding: spacing.get(3),
